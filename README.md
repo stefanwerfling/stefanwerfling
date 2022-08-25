@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanwerfling" alt="stefanwerfling" /></a> </p>
 
-- 🔭 I’m currently working on [FlyingFish, NWPA, FindNow,](https://github.com/stefanwerfling/flyingfish)
+- 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/)
 
 - 🌱 I’m currently learning **Flutter, Dart, GO**
 
