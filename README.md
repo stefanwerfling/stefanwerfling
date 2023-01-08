@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/)
 
-- 🌱 I’m currently learning **Flutter, Dart, GO**
+- 🌱 I’m currently learning **TypeScript, Flutter, Dart, GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stefanwerfling](https://github.com/stefanwerfling)
 
@@ -24,6 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stefanwerfling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stefanwerfling" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6230233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6230233" height="30" width="40" /></a>
+<a href="https://instagram.com/stefanwe87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanwe87" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
