@@ -9,3 +9,5 @@
 7. ./adb connect "vpn ip":"listen port"
   
   Now you see the device in your ide.
+
+Read more http://www.apfel-z.net/artikel/adb_via_WIFI
