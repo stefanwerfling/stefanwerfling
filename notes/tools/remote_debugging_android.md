@@ -4,7 +4,7 @@
 4. Start Wlan Debugging and check the listen ip
 4.1 When the Listen is not on the VPN IP, then start a portforwarding app, e.g. my app: https://github.com/stefanwerfling/apf
 5. go /home/~/Android/Sdk/platform-tools and start a shell for linux
-6. ./adb pair vpn ip":"listen port"
+6. ./adb pair "vpn ip":"listen port"
    - you will ask for the code
 7. ./adb connect "vpn ip":"listen port"
   
