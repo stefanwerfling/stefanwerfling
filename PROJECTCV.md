@@ -11,10 +11,18 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: only for the customer
 
 ### **Project - [ROHC Fork]** *(Dec 19, 2023)*
-- **Description**: Added patch for the new Linux kernel. Used for my Node.Js binding project. A library for the RObust Header Compression (ROHC) protocol. It provides an easy and robust way for applications to reduce their bandwidth usage on network links with limited capacity or expensive costs. Headers of network packets are compressed with the ROHC protocol and algorithms.
+- **Description**: Added patch for the new Linux kernel. Used for my Node.js binding project. A library for the RObust Header Compression (ROHC) protocol. It provides an easy and robust way for applications to reduce their bandwidth usage on network links with limited capacity or expensive costs. Headers of network packets are compressed with the ROHC protocol and algorithms.
 - **Technologies**: C
 - **Role**: Patcher
 - **GitHub**: [Project ROHC Fork](https://github.com/stefanwerfling/rohc)
+
+### **Project - [node-rohc]** *(Dec 14, 2023)*
+- **Description**: Node.js Binding to RObust Header Compression (ROHC) library. Planned use for a proprietary VPN protocol.
+- **Technologies**: C, C++, TypeScript, Node.js, JS
+- **Role**: Chief developer
+- **GitHub**: [Project Node-Rohc](https://github.com/stefanwerfling/node-rohc)
+- **Page**: [Node-Rohc NPM](https://www.npmjs.com/package/node-rohc)
+- **Doc**: [Node-Rohc Dev.to](https://dev.to/stefanwerfling/nodejs-rohc-11k3)
 
 ### **Project - [mozilla-webext-types]** *(Aug 23, 2023)*
 - **Description**: Type definitions for the WebExtensions API used by Firefox and Thunderbird. We started this project since we didn't find any proper type definitions and most plugin projects write their own., For now, the focus lies on supporting version 115 of Thunderbird and Firefox ESR. It is used in the company's Thunderbird plugin.
