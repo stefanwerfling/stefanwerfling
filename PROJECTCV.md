@@ -117,3 +117,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Chief developer
 - **GitHub**: [Project EDebug](https://github.com/HWOldCode/edebug)
 - **Demo**: see screenshots in repository
+ 
+### **Project - [jEGroupware]** *(Jun 10, 2015)*
+- **Description**: Egroupware Java Client libary, use to control and remote your egroupware, in backend work http client, all function represent as api.
+- **Technologies**: Java
+- **Role**: Chief developer
+- **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
+- **Demo**: -
+
