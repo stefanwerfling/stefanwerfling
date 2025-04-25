@@ -39,12 +39,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: See screenshots and try the app
 - **Doc**: [Doc usecase](https://m-e-e-r-e-v.gitbook.io/mwpa-app/mwpa-mammal-watching.-processing.-analysing./update-and-debugging)
 
-### **Project - [FindNow Thunderbird Addon]** *(Jul 29, 2020)*
-- **Description**: Helps you save emails as EML files in Thunderbird to the file system. Several options allow you to predefine the path and naming. The goal was to quickly make the EML available for the document scanner (FindNow).
-- **Technologies**: TypeScript, JavaScript, [mozilla-webext-types](https://github.com/OpenSourcePKG/mozilla-webext-types)
-- **Role**: Chief developer
-- **GitHub**: [Project findnow_tbplugin](https://github.com/OpenSourcePKG/findnow_tbplugin)
-- **Page**: [Addons Thunderbird - FindNow](https://addons.thunderbird.net/de/thunderbird/addon/findnow2/?src=search)
+### **Project - [Bambooo]** *(Apr 19, 2022)*
+- **Description**: AdminLTE Typescript Framework (Die Grundidee des Namens besteht darin, das Frontend wie einen Bambusrahmen aufzubauen.).
+- **Technologies**: TypeScript, JavaScript, jQuery, JQueryMobile, OpenStreetMap
+- **Role**: Chief developer, Frontend
+- **GitHub**: [Project Bambooo](https://github.com/stefanwerfling/bambooo)
 
 ### **Project - [Mammal watching. Processing. Analysing.]** *(Jan 2, 2022 - in work)*
 - **Description**: MWPA provides the acquisition of scientific observational data, an easy-to-use user interface for viewing, confirming and reviewing the data. This includes the backend for data collection, the frontend and a mobile phone app for snycronization. The recorded ones relate to mammals and their observations. The aim is to record the observations cleanly and quickly. For this purpose, the old data is processed again and imported.
@@ -54,6 +53,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: start your own docker container and test it
 - **More**: Project management software for data acquisition by Association M.E.E.R. e.V. [Project Dev Page](https://github.com/M-E-E-R-e-V) ● [Association Page](https://m-e-e-r.de/)
 - **Doc**: [MWPA Doc](https://m-e-e-r-e-v.gitbook.io/mwpa) ● [MWPA mobile App Doc](https://m-e-e-r-e-v.gitbook.io/mwpa-app)
+
+### **Project - [FindNow Thunderbird Addon]** *(Jul 29, 2020)*
+- **Description**: Helps you save emails as EML files in Thunderbird to the file system. Several options allow you to predefine the path and naming. The goal was to quickly make the EML available for the document scanner (FindNow).
+- **Technologies**: TypeScript, JavaScript, [mozilla-webext-types](https://github.com/OpenSourcePKG/mozilla-webext-types)
+- **Role**: Chief developer
+- **GitHub**: [Project findnow_tbplugin](https://github.com/OpenSourcePKG/findnow_tbplugin)
+- **Page**: [Addons Thunderbird - FindNow](https://addons.thunderbird.net/de/thunderbird/addon/findnow2/?src=search)
 
 ---
 
