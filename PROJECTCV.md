@@ -3,9 +3,15 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🚀 Latest projects
 
+### **Project - [KI Assistent for Company Apps]** *(~Apr, 2025)*
+- **Description**: The project for an AI assistant with a local version and models (LLM) has been launched. The data will be written to a vector database and processed using chunks. The project is currently in development/expansion phase.
+- **Technologies**: LLM, TypeScript, C++, Docker ...
+- **Role**: Full-Stack developer
+- **GitHub**: in the company repository
+
 ### **Project - [Kavula]** *(~March 2024 - in work)*
 - **Description**: Frontend and backend development with many APIs. The client is one of two companies in Germany authorized to convert cars into taxis. The client works with major corporations such as VW. The software contains all the necessary areas for mapping the company's workflow (address book, calendar, ordering, order, inventory system, templates, SMS gateway, email gateway, etc.).
-- **Technologies**: TypeScript, Node.js
+- **Technologies**: TypeScript, Node.js, Docker
 - **Role**: Full-Stack developer (Frontend, Backend, Project manager)
 - **GitHub**: in the company repository
 - **Demo**: only for the customer
@@ -66,6 +72,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 📈 Previous projects
 
+### **Project - [Binocular sight point]** *(Jun 1, 2022)*
+- **Description**: This project is intended to calculate the position in which direction to look with binoculars. The exact position can be calculated based on the height to sea level, orientation to the north with an angle for horizontal (0-360 degrees) and with a tilt angle (up to 0-90 degrees) for vertical.
+- **Technologies**: JavaScript, JQuery, JQueryMobile, OpenStreetMap
+- **Role**: Frontend
+- **GitHub**: [BSP - Binocular sight point](https://github.com/M-E-E-R-e-V/bsp)
+- **Demo**: Check the repository
+
 ### **Project - [projektxd_handyapp]** *(Feb 15, 2021)*
 - **Description**: Mobile app (Android) for projektXD, the app manages project tickets and tasks. Connection to the API and synchronization when the mobile device is offline.
 - **Technologies**: Kotlin
@@ -80,14 +93,27 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: in the company repository
 - **App**: -
 
-### **Project - [Binocular sight point]** *(Jun 1, 2022)*
-- **Description**: This project is intended to calculate the position in which direction to look with binoculars. The exact position can be calculated based on the height to sea level, orientation to the north with an angle for horizontal (0-360 degrees) and with a tilt angle (up to 0-90 degrees) for vertical.
-- **Technologies**: JavaScript, JQuery, JQueryMobile, OpenStreetMap
-- **Role**: Frontend
-- **GitHub**: [BSP - Binocular sight point](https://github.com/M-E-E-R-e-V/bsp)
-- **Demo**: Check the repository
+### **Project - [card_dav_to_ldap_sync]** *(Sep 21, 2020)*
+- **Description**: Synchronization of the card server (SOGO) with the LDAP server. The service compares the cards (contacts) via LDAP, and they then appear in the telephone system.
+- **Technologies**: PHP 7, Docker
+- **Role**: Developer (Backend/System Agent)
+- **GitHub**: in the company repository
+- **App**: -
+
+### **Project - [FindNow]** *(Jul 29, 2020)*
+- **Description**: A full-text file content system that scans data from a source, performs OCR and text analysis (of file attachments), and stores the content in a full-text search. It also manages user rights for the files. Sources can be SMB, SFTP, IMAP, or NFS.
+- **Technologies**: PHP 7/8, TypeScript, JS, JQuery, Docker
+- **Role**: Chief developer
+- **GitHub**: in the company repository
+- **Demo**: -
 
 ---
 
 ## 🔧 More projects
 
+### **Project - [EGroupware - EDebug]** *(Apr 18, 2016)*
+- **Description**: An egroupware plugin designed to help analyze PHP execution times. It was developed to help analyze where code performance improvements can be achieved in EWorkflow.
+- **Technologies**: PHP 7, XHPROF,
+- **Role**: Chief developer
+- **GitHub**: [Project EDebug](https://github.com/HWOldCode/edebug)
+- **Demo**: see screenshots in repository
