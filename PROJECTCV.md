@@ -7,7 +7,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Description**: Frontend and backend development with many APIs. The client is one of two companies in Germany authorized to convert cars into taxis. The client works with major corporations such as VW. The software contains all the necessary areas for mapping the company's workflow (address book, calendar, ordering, order, inventory system, templates, SMS gateway, email gateway, etc.).
 - **Technologies**: TypeScript, Node.js
 - **Role**: Full-Stack developer (Frontend, Backend, Project manager)
-- **GitHub**: in the company repositor
+- **GitHub**: in the company repository
 - **Demo**: only for the customer
 
 ### **Project - [Android port forwarding]** *(Apr 24, 2023)*
@@ -30,6 +30,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 ---
 
 ## 📈 Previous projects
+
+### **Project - [Binocular sight point]** *(Jun 1, 2022)*
+- **Description**: This project is intended to calculate the position in which direction to look with binoculars. The exact position can be calculated based on the height to sea level, orientation to the north with an angle for horizontal (0-360 degrees) and with a tilt angle (up to 0-90 degrees) for vertical.
+- **Technologies**: JavaScript, JQuery, JQueryMobile, OpenStreetMap
+- **Role**: Frontend
+- **GitHub**: [BSP - Binocular sight point](https://github.com/M-E-E-R-e-V/bsp)
+- **Demo**: Check the repository
 
 ---
 
