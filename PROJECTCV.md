@@ -34,6 +34,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **More**: Project management software for data acquisition by Association M.E.E.R. e.V. [Project Dev Page](https://github.com/M-E-E-R-e-V) ● [Association Page](https://m-e-e-r.de/)
 - **Doc**: [MWPA Doc](https://m-e-e-r-e-v.gitbook.io/mwpa) ● [MWPA mobile App Doc](https://m-e-e-r-e-v.gitbook.io/mwpa-app)
 
+### **Project - [FindNow Thunderbird Addon]** *(Jul 29, 2020)*
+- **Description**: Helps you save emails as EML files in Thunderbird to the file system. Several options allow you to predefine the path and naming. The goal was to quickly make the EML available for the document scanner (FindNow).
+- **Technologies**: TypeScript, JavaScript, [mozilla-webext-types](https://github.com/OpenSourcePKG/mozilla-webext-types)
+- **Role**: Chief developer
+- **GitHub**: [Project findnow_tbplugin](https://github.com/OpenSourcePKG/findnow_tbplugin)
+- **Page**: [Addons Thunderbird - FindNow](https://addons.thunderbird.net/de/thunderbird/addon/findnow2/?src=search)
+
 ---
 
 ## 📈 Previous projects
