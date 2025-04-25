@@ -40,10 +40,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Doc**: [Doc usecase](https://m-e-e-r-e-v.gitbook.io/mwpa-app/mwpa-mammal-watching.-processing.-analysing./update-and-debugging)
 
 ### **Project - [Bambooo]** *(Apr 19, 2022)*
-- **Description**: AdminLTE Typescript Framework (Die Grundidee des Namens besteht darin, das Frontend wie einen Bambusrahmen aufzubauen.).
+- **Description**: AdminLTE Typescript Framework (The basic idea of the name is to build the front end like a bamboo frame.).
 - **Technologies**: TypeScript, JavaScript, jQuery, JQueryMobile, OpenStreetMap
 - **Role**: Chief developer, Frontend
 - **GitHub**: [Project Bambooo](https://github.com/stefanwerfling/bambooo)
+- **Demo**: -
 
 ### **Project - [Mammal watching. Processing. Analysing.]** *(Jan 2, 2022 - in work)*
 - **Description**: MWPA provides the acquisition of scientific observational data, an easy-to-use user interface for viewing, confirming and reviewing the data. This includes the backend for data collection, the frontend and a mobile phone app for snycronization. The recorded ones relate to mammals and their observations. The aim is to record the observations cleanly and quickly. For this purpose, the old data is processed again and imported.
