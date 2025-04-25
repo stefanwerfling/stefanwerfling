@@ -14,7 +14,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Description**:
 - **Technologies**: Typescript, Node.js, Flutter
 - **Role**: Full-Stack developer (Frontend, Backend, Project manager)  
-- **GitHub**: [Link to the project (backend & frontend)](https://github.com/M-E-E-R-e-V/mwpa) [Link to the project (mobile App)](https://github.com/M-E-E-R-e-V/mwpa-app)
+- **GitHub**: [Link to the project (backend & frontend)](https://github.com/M-E-E-R-e-V/mwpa) ● [Link to the project (mobile App)](https://github.com/M-E-E-R-e-V/mwpa-app)
 - **Demo**: start your own docker container and test it
 - **More**: Project management software for data acquisition by Association M.E.E.R. e.V. [Project Dev Page](https://github.com/M-E-E-R-e-V) [Association Page](https://m-e-e-r.de/)
 
