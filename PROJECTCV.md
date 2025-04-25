@@ -66,6 +66,20 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 📈 Previous projects
 
+### **Project - [projektxd_handyapp]** *(Feb 15, 2021)*
+- **Description**: Mobile app (Android) for projektXD, the app manages project tickets and tasks. Connection to the API and synchronization when the mobile device is offline.
+- **Technologies**: Kotlin
+- **Role**: Developer (Frontend)
+- **GitHub**: in the company repository
+- **App**: [Google Play - projektXD](https://play.google.com/store/apps/details?id=com.pegenau.projektxd&utm_source=emea_Med)
+
+### **Project - [projektxd_handyapp_ios]** *(Feb 15, 2021)*
+- **Description**: Mobile app (IOS) for projektXD, the app manages project tickets and tasks. Connection to the API and synchronization when the mobile device is offline.
+- **Technologies**: Swift
+- **Role**: Developer (Frontend)
+- **GitHub**: in the company repository
+- **App**: -
+
 ### **Project - [Binocular sight point]** *(Jun 1, 2022)*
 - **Description**: This project is intended to calculate the position in which direction to look with binoculars. The exact position can be calculated based on the height to sea level, orientation to the north with an angle for horizontal (0-360 degrees) and with a tilt angle (up to 0-90 degrees) for vertical.
 - **Technologies**: JavaScript, JQuery, JQueryMobile, OpenStreetMap
