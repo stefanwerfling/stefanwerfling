@@ -10,6 +10,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: in the company repository
 - **Demo**: only for the customer
 
+### **Project - [mozilla-webext-types]** *(Aug 23, 2023)*
+- **Description**: Type definitions for the WebExtensions API used by Firefox and Thunderbird. We started this project since we didn't find any proper type definitions and most plugin projects write their own., For now, the focus lies on supporting version 115 of Thunderbird and Firefox ESR. This is a work in progress, so if any parts are missing, just let us know.
+- **Technologies**: TypeScript
+- **Role**: Chief developer
+- **GitHub**: [Project mozilla-webext-types](https://github.com/OpenSourcePKG/mozilla-webext-types)
+- **Demo**: - 
+
 ### **Project - [Android port forwarding]** *(Apr 24, 2023)*
 - **Description**: The app helps forward ports on the mobile device. More specifically, I wrote the app to access the port for debugging in Android Studio via a VPN, since the device is located several thousand kilometers away from me.
 - **Technologies**: Flutter
