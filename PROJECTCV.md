@@ -123,7 +123,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🔧 More projects
 
-### *Project - [*****]** *(-, 2018)*
+### **Project - [XXXX]** *(-, 2018)*
 - **Description**: I can't reveal the name, but I wrote a private server and native console client (bot) for an MMORPG. The discipline was decompilation (IDA, x64dbg, Wrieshark, etc.). I recreated the protocol. To do this, I ran disassemblers on the CPU for the encryption and recreated the obfuscation with notes (2 weeks long). Even when XingCode was added, the encryption could still be recreated. I then had a healer bot in the capital. Even when someone in game support reported me, they couldn't prove it, because I always valued natural behavior in the protocol.
 - **Technologies**: Java, C#, Phyton, C++, Assemble
 - **Role**: Chief developer
@@ -143,7 +143,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
 
-### *Project - [Browser Game Bot ****]** ~(2009)*
+### **Project - [Browser Game Bot XXXXXX]** *(~2009)*
 - **Description**: 
 During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
 - **Technologies**: PHP5, Java
