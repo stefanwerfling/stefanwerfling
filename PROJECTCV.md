@@ -66,7 +66,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ### **Project - [Mammal watching. Processing. Analysing.]** *(Jan 2, 2022 - in work)*
 - **Description**: MWPA provides the acquisition of scientific observational data, an easy-to-use user interface for viewing, confirming and reviewing the data. This includes the backend for data collection, the frontend and a mobile phone app for snycronization. The recorded ones relate to mammals and their observations. The aim is to record the observations cleanly and quickly. For this purpose, the old data is processed again and imported.
-- **Technologies**: TypeScript, Node.js, Flutter
+- **Technologies**: TypeScript, Node.js, Flutter, OpenStreetMap
 - **Role**: Full-Stack developer (Frontend, Backend, Project manager)  
 - **GitHub**: [Link to the project (backend & frontend)](https://github.com/M-E-E-R-e-V/mwpa) ● [Link to the project (mobile App)](https://github.com/M-E-E-R-e-V/mwpa-app)
 - **Demo**: start your own docker container and test it
