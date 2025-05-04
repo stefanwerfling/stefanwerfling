@@ -9,6 +9,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Full-Stack developer
 - **GitHub**: in the company repository
 
+### **Project - [node-dns Fork]** *(~March 2024 - in work)*
+- **Description**: DNS Server and Client Implementation in Pure JavaScript with no dependencies. Have start a fork and write all new in Typescript.
+- **Technologies**: TypeScript, Node.js
+- **Role**: Full-Stack developer
+- **GitHub**: [Project node-dns Fork](https://github.com/stefanwerfling/node-dns/tree/ts)
+
 ### **Project - [FigTree]** *(~March 2024 - in work)*
 - **Description**: Figtree - Server Core: Is a package for the Config/DB/Logging and many other useful classes and utils for the quick implementation of a backend server or raw server.
 - **Technologies**: TypeScript, Node.js, Docker
