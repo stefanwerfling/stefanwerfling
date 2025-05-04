@@ -142,3 +142,10 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Chief developer
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
+
+### *Project - [Browser Game Bot ****]** ~(2009)*
+- **Description**: 
+During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
+- **Technologies**: PHP5, Java
+- **Role**: Study
+- **Github**: none
