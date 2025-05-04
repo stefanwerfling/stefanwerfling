@@ -9,6 +9,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Full-Stack developer
 - **GitHub**: in the company repository
 
+### **Project - [FigTree]** *(~March 2024 - in work)*
+- **Description**: Figtree - Server Core: Is a package for the Config/DB/Logging and many other useful classes and utils for the quick implementation of a backend server or raw server.
+- **Technologies**: TypeScript, Node.js, Docker
+- **Role**: Full-Stack developer
+- **GitHub**: [Project FigTree](https://github.com/stefanwerfling/figtree)
+
 ### **Project - [Kavula]** *(~March 2024 - in work)*
 - **Description**: Frontend and backend development with many APIs. The client is one of two companies in Germany authorized to convert cars into taxis. The client works with major corporations such as VW. The software contains all the necessary areas for mapping the company's workflow (address book, calendar, ordering, order, inventory system, templates, SMS gateway, email gateway, etc.).
 - **Technologies**: TypeScript, Node.js, Docker
