@@ -123,6 +123,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🔧 More projects
 
+### *Project - [*****]** *(-, 2018)*
+- **Description**: I can't reveal the name, but I wrote a private server and native console client (bot) for an MMORPG. The discipline was decompilation (IDA, x64dbg, Wrieshark, etc.). I recreated the protocol. To do this, I ran disassemblers on the CPU for the encryption and recreated the obfuscation with notes (2 weeks long). Even when XingCode was added, the encryption could still be recreated. I then had a healer bot in the capital. Even when someone in game support reported me, they couldn't prove it, because I always valued natural behavior in the protocol.
+- **Technologies**: Java, C#, Phyton, C++
+- **Role**: Chief developer
+- **Github**: secret
+
 ### **Project - [EGroupware - EDebug]** *(Apr 18, 2016)*
 - **Description**: An egroupware plugin designed to help analyze PHP execution times. It was developed to help analyze where code performance improvements can be achieved in EWorkflow.
 - **Technologies**: PHP 7, XHPROF,
@@ -136,4 +142,3 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Chief developer
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
-
