@@ -143,15 +143,16 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
 
-### **Project - [Browser Game Bot XXXXXX]** *(~2007)*
-- **Description**: 
-During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
-- **Technologies**: PHP5, Java
-- **Role**: Study
-- **Github**: none
 
 ### **Project - [EGroupware]** *(2008)** *(~2009 - 2020)*
 - **Description**:  We started writing many modules (plugins/apps) for EGroupware, both general and directly for customers. Later, we collaborated with EGroupware GmbH and supported customers who depended on modules I wrote myself. This also included small modifications (Git Push) that created more flexibility when loading code. With the dissolution of our company (business partners and I) in 2020, the collaboration ended. Special thanks to the lead developer and the managing director for their collaboration.
 - **Technologies**: PHP (5/7/8), JavaScript
 - **Role**: Chief developer for modules
 - **GitHub**: [Project EGroupware](https://github.com/EGroupware/egroupware)
+
+### **Project - [Browser Game Bot XXXXXX]** *(~2007)*
+- **Description**: 
+During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
+- **Technologies**: PHP5, Java
+- **Role**: Study
+- **Github**: none
