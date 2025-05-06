@@ -95,6 +95,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Chief developer
 - **GitHub**: -
 
+### **Project - [Lennium fighters - Live at Harvest Moon - Vinyl]** *(~2022)*
+- **Description**: Creation and design for a vinyl record for the album Live at Harvest Moon. For my best friend!
+- **Technologies**: Gimp
+- **Role**: producer
+- **GitHub**: [Lennium fighters - Live at Harvest Moon - Vinyl](https://github.com/stefanwerfling/lf-liveatharvestmoon-vinyl)
+
 ### **Project - [Binocular sight point]** *(Jun 1, 2022)*
 - **Description**: This project is intended to calculate the position in which direction to look with binoculars. The exact position can be calculated based on the height to sea level, orientation to the north with an angle for horizontal (0-360 degrees) and with a tilt angle (up to 0-90 degrees) for vertical.
 - **Technologies**: JavaScript, JQuery, JQueryMobile, OpenStreetMap
