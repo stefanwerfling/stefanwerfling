@@ -140,6 +140,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🔧 More projects
 
+### **Project - [Linux Image_Factory - PI]** *(~Mai, 2021)*
+- **Description**: It takes the original image, mounts it as a drive, overwrites existing config files, and copies additional shell scripts for automatic setup to the Raspberry Pi. This process is automated with another script that writes the image via dd and unmounts and remounts the SD card in the file system.
+- **Technologies**: Shell/Bash
+- **Role**: Chief developer
+- **GitHub**: -
+
 ### **Project - [XXXX]** *(-, 2018 - ~2020)*
 - **Description**: I can't reveal the name, but I wrote a private server and native console client (bot) for an MMORPG. The discipline was decompilation (IDA, x64dbg, Wrieshark, etc.). I recreated the protocol. To do this, I ran disassemblers on the CPU for the encryption and recreated the obfuscation with notes (2 weeks long). Even when XingCode was added, the encryption could still be recreated. I then had a healer bot in the capital. Even when someone in game support reported me, they couldn't prove it, because I always valued natural behavior in the protocol.
 - **Technologies**: Java, C#, Phyton, C++, Assemble
