@@ -9,6 +9,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Full-Stack developer
 - **GitHub**: in the company repository
 
+### **Project - [UWC]** *(~Mar, 2025)*
+- **Description**: Planning and development of a new encryption in the handshake, further details are secret.
+- **Technologies**: -
+- **Role**: Chief developer
+
 ### **Project - [node-dns Fork]** *(~March 2024 - now)*
 - **Description**: DNS Server and Client Implementation in Pure JavaScript with no dependencies. Have start a fork and write all new in Typescript.
 - **Technologies**: TypeScript, Node.js
