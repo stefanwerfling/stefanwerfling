@@ -9,7 +9,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Full-Stack developer
 - **GitHub**: in the company repository
 
-### **Project - [UWC]** *(~Mar, 2025)*
+### **Project - [UWC]** *(~Mar, 2025 - now)*
 - **Description**: Planning and development of a new encryption in the handshake, further details are secret.
 - **Technologies**: -
 - **Role**: Chief developer
@@ -167,7 +167,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: -
 
 
-### **Project - [EGroupware]** *(2008)** *(~2009 - 2020)*
+### **Project - [EGroupware]** *(~2009 - 2020)*
 - **Description**:  We started writing many modules (plugins/apps) for EGroupware, both general and directly for customers. Later, we collaborated with EGroupware GmbH and supported customers who depended on modules I wrote myself. This also included small modifications (Git Push) that created more flexibility when loading code. With the dissolution of our company (business partners and I) in 2020, the collaboration ended. Special thanks to the lead developer and the managing director for their collaboration.
 - **Technologies**: PHP (5/7/8), JavaScript
 - **Role**: Chief developer for modules
