@@ -69,6 +69,13 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project Bambooo](https://github.com/stefanwerfling/bambooo)
 - **Demo**: -
 
+### **Project - [FlyingFish]** *(Mar 8, 2022 - now)*
+- **Description**: FlyingFish is a reverse proxy manager with own WebUI, DNS server, SSH server, DynDNS, UPNP support, Lets Encrypt and much more. In the classic sense, FlyingFish is a nginx manager. But the way the nginx server is combined with other services is different! The FlyingFish is structured in part service, which automates many processes through an internal database or API communication.
+- **Technologies**: TypeScript, JavaScript, jQuery, JQueryUI, OpenStreetMap, Nginx, Bambooo
+- **Role**: Chief developer
+- **GitHub**: [Project FlyingFish](https://github.com/stefanwerfling/flyingfish)
+- **Doc**: [FlyingFish Doc](https://flying-fish.gitbook.io/flyingfish)
+
 ### **Project - [Mammal watching. Processing. Analysing.]** *(Jan 2, 2022 - now)*
 - **Description**: MWPA provides the acquisition of scientific observational data, an easy-to-use user interface for viewing, confirming and reviewing the data. This includes the backend for data collection, the frontend and a mobile phone app for snycronization. The recorded ones relate to mammals and their observations. The aim is to record the observations cleanly and quickly. For this purpose, the old data is processed again and imported.
 - **Technologies**: TypeScript, Node.js, Flutter, OpenStreetMap
