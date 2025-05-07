@@ -181,8 +181,14 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project EGroupware](https://github.com/EGroupware/egroupware)
 
 ### **Project - [Browser Game Bot XXXXXX]** *(~2007 - ~2008)*
-- **Description**: 
-During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
+- **Description**: During my professional training, I recreated a well-known browser game protocol for my skills and used it to create a bot that flew around the map and collected bonus boxes. These contained the real-game currency that required payment. The game ran in Flash, which I analyzed and initially wrote the protocol in PHP, then later in Java. I always gave the program to my colleague 1 to test it. I had to go to a meeting, and when I returned to the room later, suddenly all of my colleagues had run the bot multiple times, lol.
 - **Technologies**: PHP5, Java
 - **Role**: Study
+- **Github**: none
+
+### **Project - [XXXXXX Intranet]** *(Sep. 2005 - 2020)* 
+- **Description**: 
+Internal software (named after the intranet) from one of the largest franchise licensors and home builders. The software handles administration, export analysis, and much more. (Licensee management, structure management, customer management and analysis, industry imports/exports, invoice creation (PDF) and DATEV export, tasks for automatic evaluations, forecasting, award ceremonies, and much more ...) The software has helped the company become one of the largest since its inception.
+- **Technologies**: PHP 4
+- **Role**: At the beginning of vocational training, 2008 through the company foundation Second chief developer for external support and expansion
 - **Github**: none
