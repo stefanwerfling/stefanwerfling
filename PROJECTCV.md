@@ -147,7 +147,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🔧 More projects
 
-### **Project - [Linux Image_Factory - PI]** *(~Mai, 2021)*
+### **Project - [Linux Image_Factory - Raspberry PI]** *(~Mai, 2021)*
 - **Description**: It takes the original image, mounts it as a drive, overwrites existing config files, and copies additional shell scripts for automatic setup to the Raspberry Pi. This process is automated with another script that writes the image via dd and unmounts and remounts the SD card in the file system.
 - **Technologies**: Shell/Bash
 - **Role**: Chief developer
@@ -158,6 +158,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Technologies**: Java, C#, Phyton, C++, Assemble
 - **Role**: Chief developer
 - **Github**: secret
+
+### **Project - [Pokemon Go GPS Spoofing]** *(~2016 - 2017)*
+- **Description**: Use HackRF to generate your own GPS signal to change the location on your phone for Pokemon GO. (Never use this as a cheat, just to see if it works.)
+- **Technologies**: GPS, HackRF, C
+- **Role**: Hacking
 
 ### **Project - [EGroupware - EDebug]** *(Apr 18, 2016 - 2020)*
 - **Description**: An egroupware plugin designed to help analyze PHP execution times. It was developed to help analyze where code performance improvements can be achieved in EWorkflow.
@@ -172,7 +177,6 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Chief developer
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
-
 
 ### **Project - [EGroupware]** *(~2009 - 2020)*
 - **Description**:  We started writing many modules (plugins/apps) for EGroupware, both general and directly for customers. Later, we collaborated with EGroupware GmbH and supported customers who depended on modules I wrote myself. This also included small modifications (Git Push) that created more flexibility when loading code. With the dissolution of our company (business partners and I) in 2020, the collaboration ended. Special thanks to the lead developer and the managing director for their collaboration.
