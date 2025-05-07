@@ -188,7 +188,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ### **Project - [XXXXXX Intranet]** *(Sep. 2005 - 2020)* 
 - **Description**: 
-Internal software (named after the intranet) from one of the largest franchise licensors and home builders. The software handles administration, export analysis, and much more. (Licensee management, structure management, customer management and analysis, industry imports/exports, invoice creation (PDF) and DATEV export, tasks for automatic evaluations, forecasting, award ceremonies, and much more ...) The software has helped the company become one of the largest since its inception.
+Internal software (named after the intranet) from one of the largest franchise licensors and home builders from germany. The software handles administration, export analysis, and much more. (Licensee management, structure management, customer management and analysis, industry imports/exports, invoice creation (PDF) and DATEV export, tasks for automatic evaluations, forecasting, award ceremonies, and much more ...) The software has helped the company become one of the largest since its inception.
 - **Technologies**: PHP 4, JavaScript
 - **Role**: At the beginning of vocational training, 2008 through the company foundation Second chief developer for external support and expansion
 - **Github**: none
