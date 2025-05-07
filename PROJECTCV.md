@@ -186,9 +186,21 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Study
 - **Github**: none
 
+### **Project - [SteamAPI for Pascal]** *(2006)*
+- **Description**: Translation of the interfaces from the C library to Pascal (structures and functions).
+- **Technologies**: Steam API, Pascal/Delphi, C/C++
+- **Role**: Study
+- **Github**: none
+
 ### **Project - [XXXXXX Intranet]** *(Sep. 2005 - 2020)* 
 - **Description**: 
 Internal software (named after the intranet) from one of the largest franchise licensors and home builders from germany. The software handles administration, export analysis, and much more. (Licensee management, structure management, customer management and analysis, industry imports/exports, invoice creation (PDF) and DATEV export, tasks for automatic evaluations, forecasting, award ceremonies, and much more ...) The software has helped the company become one of the largest since its inception.
 - **Technologies**: PHP 4, JavaScript
 - **Role**: At the beginning of vocational training, 2008 through the company foundation Second chief developer for external support and expansion
+- **Github**: none
+
+### **Project - [Lotus Notes Setuper]** *(Sep. 2005 - 2006)*
+- **Description**: Lotus Notes setup program that automatically installs the Lotus Notes software for the customer and makes all necessary settings.
+- **Technologies**: Delphi/Pascal, Windows API, Lotus Notes Script
+- **Role**: programmer/vocational training
 - **Github**: none
