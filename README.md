@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Flutter, Dart, GO, Rust**
 
-- 👨‍💻 All of my projects are available at [Project CV](https://github.com/stefanwerfling/stefanwerfling/blob/main/PROJECTCV.md)
+- 👨‍💻 All of my projects are available at [Project CV](PROJECTCV.md)
 
 - 📝 I regularly write articles on [FlyingFish](https://flying-fish.gitbook.io/flyingfish), [MWPA](https://m-e-e-r-e-v.gitbook.io/mwpa), [Node-ROHC](https://dev.to/stefanwerfling/nodejs-rohc-11k3), [DEV.TO](https://dev.to/stefanwerfling)
 
