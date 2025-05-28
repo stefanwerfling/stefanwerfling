@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanwerfling" alt="stefanwerfling" /></a> </p>
 
-- 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/)
+- 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [PuppeteerCast](https://github.com/stefanwerfling/puppeteercast), [FigTree](https://github.com/stefanwerfling/figtree), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/)
 
-- 🌱 I’m currently learning **TypeScript, Flutter, Dart, GO**
+- 🌱 I’m currently learning **TypeScript, Flutter, Dart, GO, Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stefanwerfling](https://github.com/stefanwerfling)
+- 👨‍💻 All of my projects are available at [Project CV](https://github.com/stefanwerfling/stefanwerfling/blob/main/PROJECTCV.md)
 
-- 📝 I regularly write articles on [Documentation](Documentation)
+- 📝 I regularly write articles on [FlyingFish](https://flying-fish.gitbook.io/flyingfish), [MWPA](https://m-e-e-r-e-v.gitbook.io/mwpa), [Node-ROHC](https://dev.to/stefanwerfling/nodejs-rohc-11k3), [DEV.TO](https://dev.to/stefanwerfling)
 
 - 💬 Ask me about **All**
 
