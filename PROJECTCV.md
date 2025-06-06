@@ -3,6 +3,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🚀 Latest projects
 
+### **Project - [Toxotidae]** *(Jul 5, 2025 - now)*
+- **Description**: Toxotidae is a TypeScript library that provides an API abstraction for sending SMS messages through the Teltonika TBR140 cellular gateway device. The library handles authentication, session management, and message transmission via HTTP API calls to the TBR140's web interface.
+- **Technologies**: TypeScript, TRB140
+- **Role**: Full-Stack developer 
+- **Github**: [Toxotidae](https://github.com/stefanwerfling/toxotidae)
+
 ### **Project - [KI Assistent for Company Apps]** *(~Apr, 2025 - now)*
 - **Description**: The project for an AI assistant with a local version and models (LLM) has been launched. The data will be written to a vector database and processed using chunks. The project is currently in development/expansion phase.
 - **Technologies**: LLM, TypeScript, C++, Docker ...
