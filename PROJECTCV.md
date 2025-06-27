@@ -184,6 +184,11 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
 
+### **Project - [NPA]** *(Feb 13, 2011 - 2020)*
+- **Description**: Germany-wide digital billing for pediatric surgery with health insurance companies. Recording and creating procedures and patients. Billing with health insurance companies via invoices and collective invoices (generation of PDF invoices, Datev exports). Digital transmission according to Section 295 1b SGB V, 73b/c, and 140 in Edifact format (Telekom, ITS, etc.).
+- **Technologies**: PHP, JavaScript, Java
+- **Role**: Chief developer
+
 ### **Project - [EGroupware]** *(~2009 - 2020)*
 - **Description**:  We started writing many modules (plugins/apps) for EGroupware, both general and directly for customers. Later, we collaborated with EGroupware GmbH and supported customers who depended on modules I wrote myself. This also included small modifications (Git Push) that created more flexibility when loading code. With the dissolution of our company (business partners and I) in 2020, the collaboration ended. Special thanks to the lead developer and the managing director for their collaboration.
 - **Technologies**: PHP (5/7/8), JavaScript
