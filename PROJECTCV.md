@@ -185,7 +185,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: -
 
 ### **Project - [NPA]** *(Feb 13, 2011 - 2020)*
-- **Description**: Germany-wide digital billing for pediatric surgery with health insurance companies. Recording and creating procedures and patients. Billing with health insurance companies via invoices and collective invoices (generation of PDF invoices, Datev exports). Digital transmission according to Section 295 1b SGB V, 73b/c, and 140 in Edifact format (Telekom, ITS, etc.).
+- **Description**: Germany-wide digital billing for pediatric surgery with health insurance companies. Recording, validation and creating procedures (OPS`s, ICD`s) and patients. Billing with health insurance companies via invoices and collective invoices (generation of PDF invoices, Datev exports). Digital transmission according to Section [295 1b SGB V, 73b/c, and 140 in Edifact](https://www.gkv-datenaustausch.de/media/dokumente/leistungserbringer_1/direktabrechner/hzv_iv/technische_anlagen_archiv_6/20180223_RL_295_1b_fuer_73bc140a.pdf) format (Telekom, [ITS](https://www.itsg.de/), [gkv-datenaustausch](https://www.gkv-datenaustausch.de) etc.).
 - **Technologies**: PHP, JavaScript, Java
 - **Role**: Chief developer
 
