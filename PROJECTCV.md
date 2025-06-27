@@ -9,6 +9,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Role**: Full-Stack developer 
 - **Github**: [Toxotidae](https://github.com/stefanwerfling/toxotidae)
 
+### **Project - [Puppeteercast]** *(May 5, 2025 - now)*
+- **Description**: PuppeteerCast is a system that converts web browser content into live video streams accessible via HTTP endpoints. The system uses headless browser automation to navigate and interact with web pages, captures the visual and audio output, encodes it into streaming formats, and serves it through multiple API interfaces compatible with various client applications.
+- **Technologies**: TypeScript
+- **Role**: Full-Stack developer
+- **Github**: [Puppeteercast](https://github.com/stefanwerfling/puppeteercast)
+
 ### **Project - [KI Assistent for Company Apps]** *(~Apr, 2025 - now)*
 - **Description**: The project for an AI assistant with a local version and models (LLM) has been launched. The data will be written to a vector database and processed using chunks. The project is currently in development/expansion phase.
 - **Technologies**: LLM, TypeScript, C++, Docker ...
