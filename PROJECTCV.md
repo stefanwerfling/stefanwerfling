@@ -191,9 +191,9 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Demo**: -
 
 ### **Project - [EGroupware Tray]** *(Dec- 2012/Jan 2013 - ~ Dec 2013)*
-- **Description**: A client written in Java that received/loaded notifications from EGroupware (via HTTP/HTTPS) and displayed them via a tooltip on the desktop. The client code was added to the EGroupware code (in consultation with EGroupware GmbH). With a click, the browser could be launched and the session transferred to log in to EGroupware and access the message.
+- **Description**: A client written in Java that received/loaded notifications from EGroupware (via HTTP/HTTPS) and displayed them via a tooltip on the desktop. The client code was added to the EGroupware code (in consultation with [EGroupware GmbH](https://www.egroupware.org/)). With a click, the browser could be launched and the session transferred to log in to EGroupware and access the message.
 - **Technologies**: Java
-- **Role**: Chief developer for Java and consultation with Ralf Becker.
+- **Role**: Chief developer for Java and meeting with [Ralf Becker](https://github.com/ralfbecker).
 - **GitHub**: [EGroupware-Tray](https://github.com/EGroupware/egroupware/tree/68907f343fda94bc420c4b09b400614c929f28a5/notifications/java/src/egroupwaretray)
 
 ### **Project - [Minecraft Bukki Plugin SC]** *(Feb 28, 2012 - 2014)*
