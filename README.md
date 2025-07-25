@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanwerfling" alt="stefanwerfling" /></a> </p>
 
-- 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [PuppeteerCast](https://github.com/stefanwerfling/puppeteercast), [FigTree](https://github.com/stefanwerfling/figtree), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/), [Toxotidae](https://github.com/stefanwerfling/toxotidae)
+- 🔭 I’m currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [PuppeteerCast](https://github.com/stefanwerfling/puppeteercast), [FigTree](https://github.com/stefanwerfling/figtree), [MWPA](https://github.com/M-E-E-R-e-V/mwpa), [MWPA App](https://github.com/M-E-E-R-e-V/mwpa-app), [Bambooo](https://github.com/stefanwerfling/bambooo), [FindNow](https://www.pegenau.de/produkte/), [Findnow Plugin for Thunderbird](https://addons.thunderbird.net/de/thunderbird/addon/findnow/), [Toxotidae](https://github.com/stefanwerfling/toxotidae), [VTS-Editor](https://github.com/stefanwerfling/vtseditor)
 
 - 🌱 I’m currently learning **TypeScript, Flutter, Dart, GO, Rust**
 
