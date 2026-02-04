@@ -10,7 +10,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [njsfscrypt](https://github.com/stefanwerfling/njsfscrypt)
 
 ### **Project - [VTS Editor]** *(Jul 10, 2025 – now)*
-- **Description**: Designed and implemented a visual schema editor that transforms complex schema authoring into an intuitive graphical workflow. The tool supports drag‑and‑drop schema element construction, field and inheritance management, cross‑reference linking, JSON import/export, and automatic TypeScript output generation. This significantly accelerates collaborative schema design and improves maintainability in large codebases reliant on type‑safe data validation. :contentReference[oaicite:3]{index=3}
+- **Description**: Designed and implemented a visual schema editor that transforms complex schema authoring into an intuitive graphical workflow. The tool supports drag‑and‑drop schema element construction, field and inheritance management, cross‑reference linking, JSON import/export, and automatic TypeScript output generation. This significantly accelerates collaborative schema design and improves maintainability in large codebases reliant on type‑safe data validation.
 - **Technologies**: TypeScript, Vite, Browser UI, Schema serialization, Code generation
 - **Role**: Chief developer, architect, and primary maintainer
 - **GitHub**: [vtseditor](https://github.com/stefanwerfling/vtseditor)
