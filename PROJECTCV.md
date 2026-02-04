@@ -3,6 +3,18 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 
 ## 🚀 Latest projects
 
+### **Project - [NjsFsCrypt]** *(Nov 20, 2025 – ~now)*
+- **Description**: Designed and built a secure encrypted filesystem tool leveraging FUSE to protect both file content and filesystem metadata with AES‑256‑GCM. The solution provides command‑line tools for key management and mounting, as well as a modular API for embedding encrypted file storage into larger applications or automated secure workflows. Suitable for secure storage, sandboxed environments, and confidentiality‑focused systems.
+- **Technologies**: TypeScript, Node.js, JavaScript, FUSE, AES‑256‑GCM encryption
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [njsfscrypt](https://github.com/stefanwerfling/njsfscrypt)
+
+### **Project - [VTS Editor]** *(Jul 10, 2025 – now)*
+- **Description**: Designed and implemented a visual schema editor that transforms complex schema authoring into an intuitive graphical workflow. The tool supports drag‑and‑drop schema element construction, field and inheritance management, cross‑reference linking, JSON import/export, and automatic TypeScript output generation. This significantly accelerates collaborative schema design and improves maintainability in large codebases reliant on type‑safe data validation. :contentReference[oaicite:3]{index=3}
+- **Technologies**: TypeScript, Vite, Browser UI, Schema serialization, Code generation
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [vtseditor](https://github.com/stefanwerfling/vtseditor)
+
 ### **Project - [Toxotidae]** *(Jul 5, 2025 - now)*
 - **Description**: Toxotidae is a TypeScript library that provides an API abstraction for sending SMS messages through the Teltonika TBR140 cellular gateway device. The library handles authentication, session management, and message transmission via HTTP API calls to the TBR140's web interface.
 - **Technologies**: TypeScript, TRB140
@@ -36,7 +48,7 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **Description**: Figtree - Server Core: Is a package for the Config/DB/Logging and many other useful classes and utils for the quick implementation of a backend server or raw server.
 - **Technologies**: TypeScript, Node.js, Docker
 - **Role**: Full-Stack developer
-- **GitHub**: [Project FigTree](https://github.com/stefanwerfling/figtree)
+- **GitHub**: [Project FigTree](https://github.com/stefanwerfling/figtree) - [Project FigTree-Schema](https://github.com/stefanwerfling/figtree-schemas)
 
 ### **Project - [Kavula]** *(~March 2024 - now)*
 - **Description**: Frontend and backend development with many APIs. The client is one of two companies in Germany authorized to convert cars into taxis. The client works with major corporations such as VW. The software contains all the necessary areas for mapping the company's workflow (address book, calendar, ordering, order, inventory system, templates, SMS gateway, email gateway, etc.).
