@@ -190,6 +190,12 @@ This is a list of projects I have worked on and deepened my knowledge. I acquire
 - **GitHub**: [Project jEGroupware](https://github.com/HWOldCode/jegroupware)
 - **Demo**: -
 
+### **Project - [EGroupware Windows Logon (egwwinlogon)]** *(~2013 – ~2015)*
+- **Description**: Designed and implemented a centralized Windows authentication solution using EGroupware as the identity provider. The system replaces local Windows logins with EGroupware credentials, automatically provisions user accounts, supports offline logins, synchronizes account status, and integrates post-login automation. A companion tray application provides a seamless, SSO-like transition into the EGroupware web interface after Windows login.
+- **Technologies**: C++, C#, Windows Logon API, HTTP/HTTPS, EGroupware API, pGina
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [egwwinlogon](https://github.com/HWOldCode/egwwinlogon)
+
 ### **Project - [EGroupware Tray]** *(Dec- 2012/Jan 2013 - ~ Dec 2013)*
 - **Description**: A client written in Java that received/loaded notifications from EGroupware (via HTTP/HTTPS) and displayed them via a tooltip on the desktop. The client code was added to the EGroupware code (in consultation with [EGroupware GmbH](https://www.egroupware.org/)). With a click, the browser could be launched and the session transferred to log in to EGroupware and access the message.
 - **Technologies**: Java
