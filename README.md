@@ -109,7 +109,7 @@ const stefan = {
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=stefanwerfling&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img src="./trophy.svg" alt="trophies"/>
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stefanwerfling&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2ea4ff&line=2ea4ff&point=ffffff&area=true" alt="activity graph"/>

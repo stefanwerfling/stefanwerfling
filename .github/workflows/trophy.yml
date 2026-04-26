@@ -1,0 +1,58 @@
+name: Trophy
+
+on:
+  schedule:
+    # Daily at 04:23 UTC
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/trophy.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trophy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Fetch and commit trophy SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch trophy SVG (with retry)
+        env:
+          URL: "https://github-profile-trophy.vercel.app/?username=stefanwerfling&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"
+        run: |
+          set -u
+          for i in 1 2 3 4 5; do
+            if curl -fsSL --max-time 30 "$URL" -o trophy.svg.new \
+               && [ -s trophy.svg.new ] \
+               && head -c 200 trophy.svg.new | grep -q "<svg"; then
+              mv trophy.svg.new trophy.svg
+              echo "ok"
+              exit 0
+            fi
+            echo "attempt $i failed, retrying in $((i * 10))s..."
+            sleep $((i * 10))
+          done
+          echo "trophy service unavailable; keeping previous SVG"
+          rm -f trophy.svg.new
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain trophy.svg)" ]; then
+            git add trophy.svg
+            git commit -m "Update trophy.svg - [Skip GitHub Action]"
+            git push
+          else
+            echo "no change"
+          fi
