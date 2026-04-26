@@ -24,6 +24,14 @@
   <a href="https://github.com/stefanwerfling"><img src="https://img.shields.io/github/stars/stefanwerfling?label=Stars&style=for-the-badge&color=2ea4ff&labelColor=0d1117" alt="stars"/></a>
 </p>
 
+<h3>
+  <a href="./PROJECTCV.md">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Read%20my-Project%20CV-2ea4ff?style=for-the-badge&labelColor=0d1117&logoColor=white" alt="Project CV" height="42"/>
+  </a>
+</h3>
+
+<sub>20+ years of projects across systems programming, full-stack web, mobile and DevOps — <a href="./PROJECTCV.md"><b>browse the full Project CV →</b></a></sub>
+
 </div>
 
 ---
