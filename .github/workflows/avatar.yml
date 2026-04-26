@@ -41,10 +41,19 @@ jobs:
           echo "could not fetch avatar"
           exit 1
 
+      - name: Ensure ImageMagick is installed
+        run: |
+          if ! command -v magick >/dev/null 2>&1 && ! command -v convert >/dev/null 2>&1; then
+            sudo apt-get update -qq
+            sudo apt-get install -y imagemagick
+          fi
+
       - name: Apply circular mask
         run: |
+          # Pick whichever ImageMagick CLI is present (v7 = magick, v6 = convert)
+          IM="$(command -v magick || command -v convert)"
           # Normalize to 512x512, then knock out transparent corners with a centered circle
-          magick avatar-src.png -resize 512x512^ -gravity center -extent 512x512 \
+          "$IM" avatar-src.png -resize 512x512^ -gravity center -extent 512x512 \
             \( +clone -threshold -1 -negate -fill white -draw "circle 256,256 256,0" \) \
             -alpha Off -compose CopyOpacity -composite \
             avatar.png
