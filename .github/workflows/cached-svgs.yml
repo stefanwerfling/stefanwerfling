@@ -28,8 +28,6 @@ jobs:
         include:
           - file: trophy.svg
             url: "https://github-profile-trophy.vercel.app/?username=stefanwerfling&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"
-          - file: header.svg
-            url: "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Stefan%20Werfling&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20Open%20Source&descSize=18&descAlignY=60&animation=twinkling"
           - file: footer.svg
             url: "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
     steps:

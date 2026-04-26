@@ -1,8 +1,18 @@
 <div align="center">
 
 <a href="https://github.com/stefanwerfling">
-  <img src="./header.svg" alt="Stefan Werfling — Full-Stack Developer"/>
+  <img src="https://github.com/stefanwerfling.png" width="128" height="128" alt="Stefan Werfling avatar" style="border-radius: 50%;"/>
 </a>
+
+# Stefan Werfling
+
+### Full-Stack Developer · Systems & Open Source
+
+<p>
+  <img src="https://img.shields.io/badge/status-open%20to%20collaboration-2ea4ff?style=for-the-badge" alt="status"/>
+  <img src="https://img.shields.io/badge/location-Germany-2ea4ff?style=for-the-badge" alt="location"/>
+  <img src="https://img.shields.io/badge/focus-TypeScript%20%C2%B7%20Node.js%20%C2%B7%20C%2FC%2B%2B-2ea4ff?style=for-the-badge" alt="focus"/>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=2EA4FF&center=true&vCenter=true&width=720&lines=Building+secure%2C+scalable+systems.;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+C%2FC%2B%2B+%E2%80%A2+Go+%E2%80%A2+Flutter;Reverse+proxies%2C+VPNs%2C+DNS%2C+encrypted+filesystems.;Currently+exploring+LLMs+%26+vector+databases."/>
