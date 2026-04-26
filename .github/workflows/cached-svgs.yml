@@ -1,0 +1,78 @@
+name: Cached SVGs
+
+on:
+  schedule:
+    # Daily at 04:23 UTC
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/cached-svgs.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cached-svgs-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Fetch external SVGs and commit if changed
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - file: trophy.svg
+            url: "https://github-profile-trophy.vercel.app/?username=stefanwerfling&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"
+          - file: header.svg
+            url: "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Stefan%20Werfling&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20Open%20Source&descSize=18&descAlignY=60&animation=twinkling"
+          - file: footer.svg
+            url: "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch ${{ matrix.file }} (with retry)
+        env:
+          URL: ${{ matrix.url }}
+          FILE: ${{ matrix.file }}
+        run: |
+          set -u
+          for i in 1 2 3 4 5; do
+            if curl -fsSL --max-time 30 "$URL" -o "$FILE.new" \
+               && [ -s "$FILE.new" ] \
+               && head -c 200 "$FILE.new" | grep -q "<svg"; then
+              mv "$FILE.new" "$FILE"
+              echo "ok: $FILE"
+              exit 0
+            fi
+            echo "attempt $i for $FILE failed, retrying in $((i * 10))s..."
+            sleep $((i * 10))
+          done
+          echo "service unavailable for $FILE; keeping previous SVG"
+          rm -f "$FILE.new"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain ${{ matrix.file }})" ]; then
+            # Pull latest in case a sibling matrix job committed first
+            git pull --rebase origin main || true
+            git add ${{ matrix.file }}
+            git commit -m "Update ${{ matrix.file }} - [Skip GitHub Action]"
+            for attempt in 1 2 3; do
+              if git push; then
+                exit 0
+              fi
+              echo "push attempt $attempt failed, rebasing and retrying..."
+              git pull --rebase origin main || true
+            done
+            exit 1
+          else
+            echo "no change for ${{ matrix.file }}"
+          fi

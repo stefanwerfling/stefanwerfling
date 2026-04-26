@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/stefanwerfling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Stefan%20Werfling&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Systems%20%26%20Open%20Source&descSize=18&descAlignY=60&animation=twinkling" alt="header"/>
+  <img src="./header.svg" alt="Stefan Werfling — Full-Stack Developer"/>
 </a>
 
 <a href="https://git.io/typing-svg">
@@ -193,6 +193,6 @@ This profile and several of my projects integrate AI tooling — local LLMs, vec
 
 <sub>The dynamic elements on this page (metrics, snake, summary cards) are rebuilt automatically once a day by GitHub Actions.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
+<img src="./footer.svg" alt="footer"/>
 
 </div>
