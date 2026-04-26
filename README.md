@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/stefanwerfling">
-  <img src="https://github.com/stefanwerfling.png" width="128" height="128" alt="Stefan Werfling avatar" style="border-radius: 50%;"/>
+  <img src="./avatar.png" width="160" height="160" alt="Stefan Werfling avatar"/>
 </a>
 
 # Stefan Werfling

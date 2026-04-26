@@ -1,0 +1,63 @@
+name: Avatar
+
+on:
+  schedule:
+    # Daily at 04:13 UTC
+    - cron: "13 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/avatar.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: avatar-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Build circular avatar.png
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch avatar (with retry)
+        run: |
+          set -u
+          for i in 1 2 3 4 5; do
+            if curl -fsSL --max-time 30 "https://github.com/stefanwerfling.png?size=512" -o avatar-src.png \
+               && [ -s avatar-src.png ]; then
+              echo "ok"
+              exit 0
+            fi
+            echo "attempt $i failed, retrying in $((i * 5))s..."
+            sleep $((i * 5))
+          done
+          echo "could not fetch avatar"
+          exit 1
+
+      - name: Apply circular mask
+        run: |
+          # Normalize to 512x512, then knock out transparent corners with a centered circle
+          magick avatar-src.png -resize 512x512^ -gravity center -extent 512x512 \
+            \( +clone -threshold -1 -negate -fill white -draw "circle 256,256 256,0" \) \
+            -alpha Off -compose CopyOpacity -composite \
+            avatar.png
+          rm -f avatar-src.png
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain avatar.png)" ]; then
+            git add avatar.png
+            git commit -m "Update avatar.png - [Skip GitHub Action]"
+            git push
+          else
+            echo "no change"
+          fi
