@@ -1,5 +1,20 @@
 # Project CV (in progress)
-This is a list of projects I have worked on and deepened my knowledge. I acquired my knowledge through extensive research and self-study and implemented it through "learning by doing."
+This is a selection of projects where I designed, built, and evolved complex systems, expanding my expertise through deep research and hands-on implementation.
+
+## AI
+In my open-source work, I operate at a scale where projects would typically require full teams handled independently.
+
+At the same time, I work effectively in team environments and value clear collaboration, shared ownership, and well defined architecture.
+
+With professional experience since 2005, my focus is on system architecture, technical direction, and long term maintainability.
+
+AI (e.g. Claude Code) is integrated deliberately into my workflow, but never acts autonomously. Every generated change is inspected via diffs before integration.
+
+This enables significantly faster iteration and milestone delivery without compromising architectural integrity.
+
+All core decisions architecture, system design, and structural direction remain explicitly under my control.
+
+AI serves strictly as an assistant and advisor. Its output is continuously questioned, validated, and used to refine engineering decisions not replace them.
 
 ## 🚀 Latest projects
 
