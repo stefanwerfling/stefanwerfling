@@ -191,7 +191,10 @@ This profile and several of my projects integrate AI tooling — local LLMs, vec
 
 <div align="center">
 
+<a href="https://discord.gg/52PQ2mbWQD"><img src="https://img.shields.io/discord/1347133593578766369?style=for-the-badge&label=Discord&logo=discord&logoColor=white&color=5865F2" alt="Discord"/></a>
 <a href="https://dev.to/stefanwerfling"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
+<a href="https://stackoverflow.com/users/6230233"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://instagram.com/stefanwe87"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/stefanwerfling"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.youtube.com/c/ucx7rtoyqvbvisnjlzmvyvcg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://fb.com/stefanwerfling"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
