@@ -1,0 +1,36 @@
+name: Profile summary cards
+
+on:
+  schedule:
+    # Daily at 04:07 UTC
+    - cron: "7 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: summary-cards-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate summary cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release-v2.x.x
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: stefanwerfling
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
