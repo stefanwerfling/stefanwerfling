@@ -44,13 +44,13 @@ const stefan = {
     nickname:    "Knicki",
     location:    "Germany",
     focus:       ["TypeScript", "Node.js", "C/C++", "Go", "Flutter"],
-    currently:   ["FlyingFish", "NjsFsCrypt", "VTS Editor", "FigTree"],
+    currently:   ["NPPM", "Mount EverREST", "NjsFsCrypt", "VTS Editor", "FigTree", "FlyingFish"],
     learning:    ["Rust-style ownership in Go", "LLM tooling", "FUSE internals"],
     fun_fact:    "I once wrote a Node.js binding to the ROHC C library — for fun.",
 };
 ```
 
-- Currently working on [FlyingFish](https://github.com/stefanwerfling/flyingfish), [NjsFsCrypt](https://github.com/stefanwerfling/njsfscrypt) and [VTS Editor](https://github.com/stefanwerfling/vtseditor)
+- Currently working on [NPPM](https://github.com/stefanwerfling/nppm), [Mount EverREST](https://github.com/stefanwerfling/mounteverrest), [NjsFsCrypt](https://github.com/stefanwerfling/njsfscrypt) and [VTS Editor](https://github.com/stefanwerfling/vtseditor)
 - Exploring **LLMs, vector databases and Flutter / Dart**
 - Open to collaboration — see my [Project CV](./PROJECTCV.md)
 - Reach me on [dev.to](https://dev.to/stefanwerfling) or via the links below
@@ -179,10 +179,17 @@ const stefan = {
 | Project | Description | Stack |
 |---|---|---|
 | **[FlyingFish](https://github.com/stefanwerfling/flyingfish)** | Reverse-proxy manager with WebUI, DNS, SSH, DynDNS, UPnP and Let's Encrypt | TypeScript · Node.js · Nginx |
+| **[NPPM](https://github.com/stefanwerfling/nppm)** | Node Project Package Manager | TypeScript · Node.js |
+| **[Mount EverREST](https://github.com/stefanwerfling/mounteverrest)** | Filesystem mount over a REST API | TypeScript · Node.js · FUSE |
 | **[NjsFsCrypt](https://github.com/stefanwerfling/njsfscrypt)** | Encrypted FUSE filesystem with AES-256-GCM, CLI & embeddable API | TypeScript · Node.js · FUSE |
 | **[VTS Editor](https://github.com/stefanwerfling/vtseditor)** | Visual schema editor with TypeScript code generation | TypeScript · Vite |
-| **[node-rohc](https://github.com/stefanwerfling/node-rohc)** | Node.js binding to the ROHC header-compression C library | C · C++ · TypeScript |
+| **[VTS Editor Plugin](https://github.com/stefanwerfling/vts-editor-plugin)** | JetBrains IDE plugin for VTS Editor | Kotlin |
 | **[FigTree](https://github.com/stefanwerfling/figtree)** | Server core: config, DB, logging utilities for Node.js backends | TypeScript · Docker |
+| **[node-dns](https://github.com/stefanwerfling/node-dns)** | DNS server & client implementation in pure TypeScript, zero dependencies | TypeScript · Node.js |
+| **[Toxotidae](https://github.com/stefanwerfling/toxotidae)** | API library for sending SMS via the Teltonika TRB140 cellular gateway | TypeScript |
+| **[Puppeteercast](https://github.com/stefanwerfling/puppeteercast)** | Turn your browser into a streaming server (headless capture → HTTP) | TypeScript |
+| **[node-rohc](https://github.com/stefanwerfling/node-rohc)** | Node.js binding to the ROHC header-compression C library | C · C++ · TypeScript |
+| **[Bambooo](https://github.com/stefanwerfling/bambooo)** | AdminLTE TypeScript framework | TypeScript |
 | **[mozilla-webext-types](https://github.com/OpenSourcePKG/mozilla-webext-types)** | Typed definitions for Firefox / Thunderbird WebExtensions API | TypeScript |
 
 > Full list: [PROJECTCV.md](./PROJECTCV.md)

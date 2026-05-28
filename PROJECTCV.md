@@ -18,6 +18,24 @@ AI serves strictly as an assistant and advisor. Its output is continuously quest
 
 ## 🚀 Latest projects
 
+### **Project - [NPPM]** *(May 2026 – now)*
+- **Description**: Node Project Package Manager — a tooling layer for managing Node.js project packages, dependencies, and workspace setup. Built to streamline the maintenance overhead of larger multi-package TypeScript codebases.
+- **Technologies**: TypeScript, Node.js
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [nppm](https://github.com/stefanwerfling/nppm)
+
+### **Project - [Mount EverREST]** *(May 2026 – now)*
+- **Description**: A filesystem mount that exposes a remote REST API as a local mountable filesystem via FUSE. Enables transparent file access over HTTP-based services, useful for bridging cloud or service-backed storage into POSIX workflows.
+- **Technologies**: TypeScript, Node.js, FUSE, REST
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [mounteverrest](https://github.com/stefanwerfling/mounteverrest)
+
+### **Project - [VTS Editor Plugin]** *(Apr 2026 – now)*
+- **Description**: JetBrains IDE plugin extending the VTS Editor workflow directly into the developer's IDE. Allows in-editor schema editing and code generation without context switching.
+- **Technologies**: Kotlin, JetBrains Platform SDK
+- **Role**: Chief developer, architect, and primary maintainer
+- **GitHub**: [vts-editor-plugin](https://github.com/stefanwerfling/vts-editor-plugin)
+
 ### **Project - [NjsFsCrypt]** *(Nov 20, 2025 – ~now)*
 - **Description**: Designed and built a secure encrypted filesystem tool leveraging FUSE to protect both file content and filesystem metadata with AES‑256‑GCM. The solution provides command‑line tools for key management and mounting, as well as a modular API for embedding encrypted file storage into larger applications or automated secure workflows. Suitable for secure storage, sandboxed environments, and confidentiality‑focused systems.
 - **Technologies**: TypeScript, Node.js, JavaScript, FUSE, AES‑256‑GCM encryption
